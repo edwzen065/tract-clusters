@@ -1,4 +1,6 @@
-Run MetroClusterer.ipynb in the .zip file. The program prompts the user four times.
+Run MetroClusterer.ipynb in the .zip file. Make sure to use the .zip file since it includes a .geojson file which is necessary for the program to run.
+
+The program prompts the user four times.
 
 **Cluster Scale Factor (Float): **
 Represents the size of the clusters; Values around 0.1 recommended.
